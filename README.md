@@ -1,5 +1,5 @@
 # SaleSight
-*** Projeto para a empresa fictícia ABX Tecnologia ***
+***Projeto para a empresa fictícia ABX Tecnologia***
 
 ## Desenvolvido por
 #### Agatha Pires | RM: 552247
