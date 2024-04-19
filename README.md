@@ -1,5 +1,6 @@
 # SaleSight
-***Projeto para a empresa fictícia ABX Tecnologia***
+***Projeto para a empresa fictícia ABX Tecnologia - feito para o Checkpoint 2 da matéria Disruptive Architectures***
+***2TDSPH - 2024***
 
 ## Desenvolvido por
 #### Agatha Pires | RM: 552247
