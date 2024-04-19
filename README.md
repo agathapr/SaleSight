@@ -21,4 +21,4 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 
-### Obs.: Para mais detalhes do projeto, ler o PDF disponibilizado na pasta "docs".
+#### Obs.: Para mais detalhes do projeto, ler o PDF disponibilizado na pasta "docs".
