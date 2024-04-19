@@ -2,8 +2,8 @@
 ## Projeto para a empresa fictícia ABX Tecnologia
 
 ## Desenvolvido por
-### Agatha Pires rm552247
-### Enrico do Nascimento rm552082
+#### Agatha Pires | RM: 552247
+#### Enrico do Nascimento | RM: 552082
 
 ## Linguagens
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
