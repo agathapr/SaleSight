@@ -1,4 +1,4 @@
 # Python libraries
-pandas
-numpy
-IPython.display
+    pandas
+    numpy
+    scikit-learn
